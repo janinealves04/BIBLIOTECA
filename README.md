@@ -34,7 +34,7 @@ Este repositório contém um sistema de gerenciamento de biblioteca desenvolvido
    ```
 4. Inicie o servidor :
    ```sh
-   npm start
+   npm run dev
    ```
 6. Acesse o sistema pelo navegador.
 
